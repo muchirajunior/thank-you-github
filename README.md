@@ -2507,3 +2507,4 @@ Gaurav Ratnawat ([@gauravratnawat](https://github.com/gauravratnawat)), `Fullsta
 - Rajdeep Ghosh ([@rajdeep-ghosh](https://github.com/rajdeep-ghosh)), Undergrad, Full Stack and Flutter developer & Open Source Enthusiast
 - Nisarga Adhikary ([@Nisarga-Developer](https://github.com/Nisarga-Developer)), Software Developer, Student, India
 - Muchira Junior ([@muchirajunior](https://github.com/muchirajunior)), Software Developer, Computer Science, Kenya :tada:
+- John Mwaniki ([@johnmwaniki](https://github.com/pochii-cloud)),Software Developer,Computer Science,Kenya ❤️
